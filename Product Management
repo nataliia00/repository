@@ -1,0 +1,9 @@
+products/
+productList.js
+productAdd.js
+productEdit.js
+productDelete.js
+models/
+Product.js
+routes/
+productRoutes.js
